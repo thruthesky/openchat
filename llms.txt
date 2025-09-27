@@ -27,10 +27,16 @@
 - [파이어베이스 Realtime Database](https://thruthesky.github.io/openchat/docs/firebase-realtime-database.md): RTDB 소개, Firestore 대신 RTDB를 선택하는 이유(비용 절감), 실시간 기능, 성능 최적화, 보안 규칙 설정 방법을 설명합니다.
 - [파이어베이스 사용자 관리](https://thruthesky.github.io/openchat/docs/firebase-user.md): 회원 가입 방법. 이메일과 비밀번호 로그인을 하거나 전화번호 등으로 로그인을 하는 방법을 설명하고, 채팅 기능과 연동을 하는 방법에 대해서 설명합니다.
 
+### JavaScript 개발 설정
+- [JavaScript로 채팅 기능 개발을 위한 초기 설정](https://thruthesky.github.io/openchat/docs/javascript-setup.md): Alpine.js, Bootstrap, Firebase JS SDK를 사용하여 웹 기반 채팅 애플리케이션을 구축하기 위한 초기 설정 방법과 기본 구조를 설명합니다.
+
 ### 데이터베이스 및 API
 - [Firebase RTDB 데이터베이스 구조](https://thruthesky.github.io/openchat/docs/database-structure.md): Firebase Realtime Database의 데이터 구조, 사용자/채팅방/메시지 저장 방식, 보안 규칙, 성능 최적화 방법을 상세히 설명합니다.
 - [데이터베이스 구조](https://thruthesky.github.io/openchat/docs/firebase-database.md): 회원 정보, 채팅방, 채팅 메시지, 푸시알림 토큰 저장 등의 전반적인 설명을 합니다.
 - [데이터 타입](https://thruthesky.github.io/openchat/docs/data-types.md): 플러터와 JavaScript 에서 사용하는 데이터 구조에 대해서 설명합니다.
 - [푸시 알림 API](https://thruthesky.github.io/openchat/docs/push-notification-api.md): 푸시 알림에 사용되는 API 에 대해서 설명합니다.
 - [API 에러 코드](https://thruthesky.github.io/openchat/docs/api-error.md): API 호출에서 발생 할 수 있는 모든 API 에러 메시지를 설명합니다.
+
+### Claude Code 연동
+- [Claude Code 에서 llms.txt 활용 가이드](https://thruthesky.github.io/openchat/docs/llms-integration.md): Claude Code 작업 공간에서 llms.txt 를 내려받아 프롬프트 맥락으로 활용하는 가장 단순한 절차를 설명합니다.
 

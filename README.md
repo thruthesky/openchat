@@ -62,12 +62,18 @@
 - [파이어베이스 Realtime Database](docs/firebase-realtime-database.md) - RTDB 소개 및 Firestore 대신 선택하는 이유(비용 절감)
 - [파이어베이스 사용자 관리](docs/firebase-user.md)
 
+### JavaScript 개발 설정
+- [JavaScript로 채팅 기능 개발을 위한 초기 설정](docs/javascript-setup.md) - Alpine.js, Bootstrap, Firebase JS SDK를 사용한 웹 기반 채팅 애플리케이션 구축 가이드
+
 ### 데이터베이스 및 API
 - [Firebase RTDB 데이터베이스 구조](docs/database-structure.md)
 - [데이터베이스 구조](docs/firebase-database.md)
 - [데이터 타입](docs/data-types.md)
 - [푸시 알림 API](docs/push-notification-api.md)
 - [API 에러 코드](docs/api-error.md)
+
+### Claude Code 연동
+- [Claude Code 에서 llms.txt 활용 가이드](docs/llms-integration.md) - Claude Code 작업 공간에서 llms.txt 를 내려받고 프롬프트로 활용하는 가장 단순한 방법을 안내합니다
 
 ## 사용 방법
 
